@@ -1,0 +1,24 @@
+{
+    "Date": "10-07-2026",
+    "Time": "04:30:56",
+    "Transcript": "Dr. M. Pichle Kuchhafton سے நiend میں پریشانی ہو رہیے Rathme Thik Se Sonai Pata اور Subha Bhohot Thakahua M.S.Kurta کیا بتا سکتے ہیں کہ یہ کسلچہ سے ہو سکتے ہیں",
+    "Predictions": [
+        {
+            "Disease": "Chicken pox",
+            "Confidence": 81.44
+        },
+        {
+            "Disease": "Typhoid",
+            "Confidence": 2.24
+        },
+        {
+            "Disease": "Impetigo",
+            "Confidence": 2.08
+        }
+    ],
+    "Recommendation": {
+        "Predicted Disease": "Chicken pox",
+        "Confidence": 81.44,
+        "Recommendation": "High confidence prediction. Please consult a physician for proper diagnosis and treatment."
+    }
+}

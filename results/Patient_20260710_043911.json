@@ -1,0 +1,24 @@
+{
+    "Date": "10-07-2026",
+    "Time": "04:39:11",
+    "Transcript": "Namaste doctor, mjhe pichle tine dino se bhukhar hai. Gale me dardhe, khansi bhi ho rahi hai.",
+    "Predictions": [
+        {
+            "Disease": "gastroesophageal reflux disease",
+            "Confidence": 59.35
+        },
+        {
+            "Disease": "allergy",
+            "Confidence": 10.42
+        },
+        {
+            "Disease": "Dengue",
+            "Confidence": 6.58
+        }
+    ],
+    "Recommendation": {
+        "Predicted Disease": "gastroesophageal reflux disease",
+        "Confidence": 59.35,
+        "Recommendation": "Possible disease detected. Medical consultation is recommended."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Date": "10-07-2026",
+    "Time": "05:25:12",
+    "Transcript": "跟",
+    "Predictions": [
+        {
+            "Disease": "Impetigo",
+            "Confidence": 39.23
+        },
+        {
+            "Disease": "Fungal infection",
+            "Confidence": 14.63
+        },
+        {
+            "Disease": "Psoriasis",
+            "Confidence": 13.19
+        }
+    ],
+    "Recommendation": {
+        "Predicted Disease": "Impetigo",
+        "Confidence": 39.23,
+        "Recommendation": "Low confidence prediction. More symptoms or clinical examination may be required."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Date": "09-07-2026",
+    "Time": "15:45:07",
+    "Transcript": "Hello, I am a dummy audio file for testing. I have a slight fever and a persistent cough.",
+    "Predictions": [
+        {
+            "Disease": "diabetes",
+            "Confidence": 26.11
+        },
+        {
+            "Disease": "urinary tract infection",
+            "Confidence": 19.93
+        },
+        {
+            "Disease": "allergy",
+            "Confidence": 14.58
+        }
+    ],
+    "Recommendation": {
+        "Predicted Disease": "diabetes",
+        "Confidence": 26.11,
+        "Recommendation": "Low confidence prediction. More symptoms or clinical examination may be required."
+    }
+}
